@@ -1,0 +1,3 @@
+# safey
+
+Access Object Safely

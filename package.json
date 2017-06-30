@@ -1,0 +1,24 @@
+{
+  "name": "safey",
+  "version": "0.0.3",
+  "description": "Access Objects Safely ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "safey",
+    "access_objects",
+    "object"
+  ],
+  "author": "Yogeshwaran <yogeshwaranmanoharan@gmail.com> (http://yogeshwaranlife.quora.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshwaranManoharan/safey.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogeshwaranManoharan/safey/issues"
+  },
+  "homepage": "https://github.com/yogeshwaranManoharan/safey#readme"
+}
